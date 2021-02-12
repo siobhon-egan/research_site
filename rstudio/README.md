@@ -44,9 +44,8 @@ So please read on with caution - mostly this is just a place for me to collate *
     - [Reproducible research in R](https://annakrystalli.me/rrresearchACCE20/)
 
 
-![*RStudio interface*](/Users/siobhonegan/Documents/Github/research/content/images/rstudio.png)
 ![*RStudio interface*](../images/rstudio.png)
-![*RStudio interface*](images/rstudio.png)
+
 
 1. Source pane - for your scripts and document
 2. Environment/history - lists all your variables loaded
@@ -59,8 +58,6 @@ Need further convincing to user R...[read on](https://datacarpentry.org/R-ecolog
 
 ## Install (& updates) {#install}
 
-![*RStudio interface*](images/rstudio.png)
-![*RStudio interface*](../images/rstudio.png)
 
 ### Windows {#windows}
 
