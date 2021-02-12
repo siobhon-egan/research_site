@@ -1,10 +1,12 @@
 ---
-sort: 1
+sort: 2
 ---
 
 # RStudio
 
 source: `{{ page.path }}`
+
+{% include list.liquid all=true %}
 
 
 <i class="fab fa-r-project"></i> is a programming language that is especially powerful for data exploration, visualization, and statistical analysis. ["`R`"](http://www.r-project.org/) is also a software that interprets the scipts written using it. The most popular way to interact with R is by using [RStudio](http://www.rstudio.com/). To get started you need to install R and RStudio on your computer.
