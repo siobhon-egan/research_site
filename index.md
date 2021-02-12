@@ -1,3 +1,7 @@
+source: `{{ page.path }}`
+
+## About me
+
 My own personal guide/references for all things research related. This was built to help document some useful links, tips and information. Topics covered include project organisation, referencing, coding, data analysis, RStudio and RMarkdown, statistics, sequencing, phylogenetics...plus more.
 
 I also maintain the Cryptick lab NGS analysis webpage [here](https://cryptick-lab.github.io/NGS-Analysis/_site/index.html) 
