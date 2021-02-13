@@ -1,4 +1,18 @@
-# starter-slim
+# Research site
+
+>By Siobhon Egan
+
+A place to house general info related to my research.
+Mainly a place for me to store lots of links and short bits of information that don't warrant their own project specific site.
+Topics covered include project organisation, referencing, coding, data analysis, RStudio and RMarkdown, statistics, sequencing, phylogenetics...plus more.
+
+http://siobhonlegan.com/research_site
+
+----------------
+
+> Site built using [`rundocs/starter-slim`]
+[GitHub repo](https://github.com/rundocs/starter-slim/)
+
 
 1. [Generate with the same files and folders](https://github.com/rundocs/starter-slim/generate) from this repository
 2. Set up your GitHub Pages to source(`/`)

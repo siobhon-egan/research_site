@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 4
 ---
 
 ## Research tips
@@ -18,17 +18,17 @@ source: `{{ page.path }}`
 6. [Writing](#writing)
 7. [Presentations](#presentations)
 
-## Project planning{#project}
+## Project planning {#project}
 
 Hugh Kearns [ThinkWell](https://www.ithinkwell.com.au/hugh-kearns) is an excellent source of information for researchers. He also runs workshops and regularly visits universities and insitutions around Australia so keep an eye on his calendar.
 
 
-## Storage & back ups{#backup}
+## Storage & back ups {#backup}
 
 This is a critical step when doing any type of research.
 If you are an undergraduate or post graduate research student it is likely that you will have to organise your own data storage/back up system. Universities will give staff (and sometimes post-graduates) access to a server where you can store your data on, however even then you may still like to have your own back up of things.
 
-I strongly advise against relying solely on hard-drives. Altough these can be an enticing offer with their one-off payment and physical nature in my experience they are unreliable, not good for transport and you can run into issues with file types & different systems. 
+I strongly advise against relying solely on hard-drives. Altough these can be an enticing offer with their one-off payment and physical nature in my experience they are unreliable, not good for transport and you can run into issues with file types & different systems.
 
 I recommend a cloud based storage system - ideally two if you can!
 
@@ -36,7 +36,7 @@ Usually they come with a monthly fee where you can pick the plan that suits your
 
 My recommendation is to pick a cloud based system you don't have to think too much about. It maybe tempting to find an obsecure third party system for your computer but if you have to constantly manage it will become a hassel.
 
-## Research accounts{#accounts}
+## Research accounts {#accounts}
 
 Here is a list of accounts that will be useful to create when starting out in research
 
@@ -46,14 +46,14 @@ Here is a list of accounts that will be useful to create when starting out in re
 * [Scopus](https://www.scopus.com/home.uri) - Scopus is the largest abstract and citation database of peer-reviewed literature: scientific journals, books and conference proceedings. Delivering a comprehensive overview of the world's research output in the fields of science, technology, medicine, social sciences, and arts and humanities, Scopus features smart tools to track, analyse and visualise research.
 * [GitHub](https://github.com/) - for the coders...see my GitHub page for more info
 
-## Laboratory record keeping{#records}
+## Laboratory record keeping {#records}
 
 This bit of information is specific to those who undertake lab work. I have found myself moving away from the traditional paper based lab notebook towards a mixed model - making use of electronic lab books but still using a paper based method for day-to-day items.
 
 There is lots of information out there on the pros and cons of different electronic lab books. There are paid versions and free versions and you'll have to weigh up the pros and cons of each when deciding what will work for you. This following is my personal recommendations during my PhD lab work.
 
-*My favourite*  
-[Hive bench](https://www.hivebench.com/)     
+*My favourite*
+[Hive bench](https://www.hivebench.com/)
 
 Taken from the website:
 
@@ -80,7 +80,7 @@ A quick list of some other electronic lab books include:
 * [Labarchives](https://www.labarchives.com/)
 
 
-## Data repositories{#repos}
+## Data repositories {#repos}
 
 [review here](https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data)
 
@@ -98,7 +98,7 @@ Free accounts include
 
 **[Open Science Framework](http://osf.io/)**
 
-## Writing{#writing}
+## Writing {#writing}
 
 
 [Phrasebank](http://www.phrasebank.manchester.ac.uk/)
@@ -109,7 +109,7 @@ Free accounts include
 
 [iThinkwell](https://www.ithinkwell.com.au/)
 
-## Presentions/figures{#presentations}
+## Presentions/figures {#presentations}
 
 A good reference here by [Rougier et al. 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 
@@ -135,4 +135,4 @@ A helpful blog by [Entomology today](https://entomologytoday.org/2020/04/29/maki
 
 [GIMP](http://www.gimp.org/) - The Free & Open Source Image Editor. This is the official website of the GNU Image Manipulation Program (GIMP).
 
-[Inkscape](https://inkscape.org/) - Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers. 
+[Inkscape](https://inkscape.org/) - Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.

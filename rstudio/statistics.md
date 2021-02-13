@@ -123,7 +123,7 @@ Using epitools - [manual here](https://cran.r-project.org/web/packages/epitools/
 *Reminder:* If you need more information on the tests use the help command in the console (e.g. `?riskratio`, `?oddsratio`).
 
 **Library**
-```{r odds-ratio1, message=FALSE, warning=FALSE}
+```
 library(epitools)
 # if you don't have this package, first install using `install.packages("epitools")`
 ```

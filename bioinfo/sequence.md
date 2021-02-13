@@ -18,7 +18,7 @@ The `.ab1` file is the most useful as it contains the cromatogram which contains
 - [GeneStudio](http://genestudio.com/) - is a collection of free programs that allow you to do everything from viewing & editing sequences to building phylogenies and editing trees.
 - [Geneious](https://www.geneious.com/) - a paid program, that is one of the most widely used by molecular biologists. It has a range of features and plugins that allow you to do a wide range of phylogenetic and bioinformatic analysis.
 
-## Aligning
+## Alignments
 
 <span class="badge badge-info">Sequence alignment with MUSCLE</span>
 
@@ -29,7 +29,6 @@ Free download available [here](https://www.drive5.com/muscle/manual/install.html
 
 :link: [Muscle documentation](https://www.drive5.com/muscle/manual/)
 
-## Alignments
 
 Make an alignment and save to a file in FASTA format:
 ```
