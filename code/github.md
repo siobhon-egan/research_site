@@ -1,3 +1,7 @@
+---
+sort: 2
+---
+
 # GitHub
 
 source: `{{ page.path }}`
@@ -65,4 +69,3 @@ Cloning a repo
 ```
 git clone https://github.com/repo/name.git ~/Path/here
 ```
-

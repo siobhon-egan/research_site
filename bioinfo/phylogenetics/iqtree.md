@@ -1,6 +1,13 @@
-# ML - IQTREE
+---
+sort: 3
+---
+
+# IQTREE
+
 
 source: `{{ page.path }}`
+
+> Maximum likelihood
 
 <span class="badge badge-info">Quick tutorial on using IQ-TREE webserver</span>
 

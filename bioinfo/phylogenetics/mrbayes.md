@@ -1,8 +1,13 @@
+---
+sort: 4
+---
+
 # MrBayes
 
 
 source: `{{ page.path }}`
 
+> Bayesian inference
 
 <span class="badge badge-info">Phylogenetic analysis using Bayesian method</span>
 

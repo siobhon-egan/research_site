@@ -6,6 +6,7 @@ sort: 1
 
 source: `{{ page.path }}`
 
+{% include list.liquid all=true %}
 
 <span class="badge badge-info">Coding starters</span>
 
@@ -14,7 +15,7 @@ source: `{{ page.path }}`
 The first step in your coding journey is to download yourself a good text editor.
 While you most systems come with a basic built-in editor (e.g. `TextEdit` for MacOS or `notepad` for windows) its best to find one you like early one.
 
-My favourite is [atom](https://atom.io/) - which is **FREE**.   
+My favourite is [atom](https://atom.io/) - which is **FREE**.
 
 Others include:
 
