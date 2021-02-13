@@ -1,3 +1,7 @@
+---
+sort: 1
+---
+
 # Referencing
 
 source: `{{ page.path }}`
@@ -24,7 +28,7 @@ The theses of many Australian universities are available in digital format. Most
 
 ## Referencing tools
 
-Organising your references is a vital part of research and its important to have a good system.  
+Organising your references is a vital part of research and its important to have a good system.
 
 A good place to start for more detail on referencing is your university library. They will have a large repository of information that will set you on your referencing journey.
 
@@ -39,15 +43,15 @@ A good, user-friendly and integrative referencing program is a must for any resa
 My recommendation!
 
 
-Zotero is free, independent open-source project! It depends on the support of its users and developer community. 
+Zotero is free, independent open-source project! It depends on the support of its users and developer community.
 
 
 The pros of Zotero are many, some include:
 
-* Zotero is the only software that automatically senses research on the web. 
+* Zotero is the only software that automatically senses research on the web.
 * Over 9,000 citation styles to choose from
 * Organise and share your collections
-* Sync capability, making it easy to access your library from any computer and moving your library onto your new computer is a breeze! 
+* Sync capability, making it easy to access your library from any computer and moving your library onto your new computer is a breeze!
 
 There is lots of documentation available. Start [here for official Zotero information](https://www.zotero.org/support/). Some useful library guides available from [Melbourne Uni](http://unimelb.libguides.com/zotero), [Monash](https://guides.lib.monash.edu/law/zotero ) and [Harvard](https://guides.library.harvard.edu/zotero).
 
@@ -62,9 +66,6 @@ Here is a presentation I gave on getting started in Zotero - [link](https://docs
 
 ### EndNote
 
-[Website](https://endnote.com/) **$$**    
-EndNote is probably one of the most commonly used referencing programs. It is a **paid** program, however most universities make it available for staff and students for free. However when you loss your institution log in details you will need to start your referencing again. This is one of the biggest reasons I advocate *againist* using EndNote. In addition the program is very large and is known for crashing computers, especially if you do not keep your version current.   
+[Website](https://endnote.com/) **$$**
+EndNote is probably one of the most commonly used referencing programs. It is a **paid** program, however most universities make it available for staff and students for free. However when you loss your institution log in details you will need to start your referencing again. This is one of the biggest reasons I advocate *againist* using EndNote. In addition the program is very large and is known for crashing computers, especially if you do not keep your version current.
 With that all said there is a wealth of information available on how to use EndNote, [here to get you started](https://clarivate.libguides.com/endnote_training/home).
-
-
-

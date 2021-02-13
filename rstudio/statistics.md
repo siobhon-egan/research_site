@@ -2,7 +2,7 @@
 
 source: `{{ page.path }}`
 
-:link: As always it's only fair links go first
+:link: As always links first
 
 * [Statistics & analysis RCompanion](https://rcompanion.org/handbook/C_03.html)
 * [PropCIs](https://github.com/shearer/PropCIs)

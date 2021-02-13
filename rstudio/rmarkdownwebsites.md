@@ -2,7 +2,7 @@
 
 source: `{{ page.path }}`
 
-<i class="fas fa-link"></i> Documentation on authoring webpages using RMarkdown and Github (to host the site)
+:link: Documentation on authoring webpages using RMarkdown and Github (to host the site)
 
 * [Chapter 10 Websites](https://bookdown.org/yihui/rmarkdown/websites.html) from [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/)
@@ -10,7 +10,7 @@ source: `{{ page.path }}`
 * Offical [R Markdown Websites](https://rmarkdown.rstudio.com/lesson-13.html) lesson from RStudio
 * An [R Markdown Website Template](https://github.com/yutannihilation/rmarkdown-website-template) available here
 
-Other helpful resources
+:link: Other helpful resources
 
 * [workflowr package](https://jdblischak.github.io/workflowr/), [tutorial here](https://cran.r-project.org/web/packages/workflowr/vignettes/wflow-01-getting-started.html), [example here](https://stephenslab.github.io/wflow-divvy/index.html)
 * [Useful workflow](https://robertmitchellv.com/blog-building-site-with-rmarkdown.html)
