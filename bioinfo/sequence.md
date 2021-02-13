@@ -80,7 +80,7 @@ This is to cover off on some basic quick command line tools to work with sequenc
 - [Bioawk](#bioawk)
 
 
-### Basic information and links{#info-links}
+### Basic information and links {#info-links}
 
 This section first starts off with some quick useful commands that will be helpful to assess and manipulate your fasta and fastq file. They can be done locally in your command line and don't require any clumsy dependancies.
 
@@ -91,7 +91,7 @@ This section first starts off with some quick useful commands that will be helpf
 * [Linux command line exercises for NGS data processing by Umer Zeeshan Ijaz](http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/linux.html)
 * [Biostars thread](https://www.biostars.org/p/17680/)
 
-### Some simple commands{#basics}
+### Some simple commands {#basics}
 
 These examples simply use `sample.fa` or `sample.fq` or similar format to represent the file you want to investigate. Remember you will need to navigate to the the path of the file or ensure you are in the correct working directory.
 The following use some basic sed, awk and pearl commands - often these are already installed if working on a macOS terminal environment
@@ -288,7 +288,7 @@ Align output to show taxonomic classification clearly
     | csvtk pretty -t
 ```
 
-### Seqmagick{#seqmagick}
+### Seqmagick {#seqmagick}
 
 `seqmagick` is a simple yet powerful utility that helps with basic manipulation and conversion/formatting of sequence files.
 Super easy to install and use with minimal requirements (likely already installed) - you just need Python >=3.5 and biopython >=1.70.
@@ -325,7 +325,7 @@ seqmagick mogrify --deduplicate-sequences sequence.fasta
 ```
 
 
-### SeqKit{#seqkit}
+### SeqKit {#seqkit}
 
 *A cross platform and ultrafast toolkit for fasta and fastq file manipulation*
 
@@ -353,7 +353,7 @@ Extract a range of sequences, e.g. sequences 5-15 (inclusive) in a fasta file to
 seqkit range -r 5:15 reads_all.fasta > reads_005-015.fasta
 ```
 
-### Bioawk{#bioawk}
+### Bioawk {#bioawk}
 
 This is a super useful addition to the awk range of commands specific to bioinformatics - see github page [here](https://github.com/lh3/bioawk)
 

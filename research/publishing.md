@@ -1,3 +1,7 @@
+---
+sort: 2
+---
+
 # Publishing
 
 source: `{{ page.path }}`
@@ -39,5 +43,3 @@ Some pre-print servers include:
 * [medRxiv](https://submit.medrxiv.org/) - prerint server for health sciences
 * [arXiv](https://arxiv.org/) - preprint server for physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
 * [Research Square](https://www.researchsquare.com/) - Research Square is a leading author, editorial, and video services provider. We are a trusted partner to many of the leading academic publishers, institutions, and societies worldwide.
-
-
