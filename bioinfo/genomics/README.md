@@ -1,8 +1,10 @@
 ---
-sort: 2
+sort: 1
 ---
 
 # General genomic resources
+
+source: `{{ page.path }}`
 
 * Galaxy links - Galaxy is a scientific workflow, data integration, and data and analysis persistence and publishing platform that aims to make computational biology accessible to research scientists that do not have computer programming or systems administration experience.
     - [Where to use galaxy](https://galaxyproject.org/use/)
