@@ -1,4 +1,4 @@
-# Tidy data and research links
+# R packages
 
 source: `{{ page.path }}`
 
