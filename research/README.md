@@ -6,7 +6,7 @@ sort: 4
 
 source: `{{ page.path }}`
 
-<span class="badge badge-info">Useful information for those new to research</span>
+<span class="badge badge-info">Some generic information for those new to research</span>
 
 **On this page**:
 

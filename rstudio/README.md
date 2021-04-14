@@ -30,7 +30,7 @@ div.blue { background-color:#db9671; border-radius: 5px; padding: 20px;}
 
 As a general rule these pages on RStudio are not meant as a stand alone tutorial/workflow to learn coding.
 Generally they includes lots of links to people who have done the hard work, and I just have a small subset of code that is relevant to my workflow or some common code chunks I use.
-So please read on with caution - mostly this is just a place for me to collate *some* websites/tutorials/information that I have found useful during my research in one central location.
+So please read on with caution - mostly this is just a place for me to collate <i><b>highly</b></i> websites/tutorials/information that I have found useful during my research in one central location.
 </div>
 
 ## Learning R links
@@ -79,7 +79,7 @@ If you don’t have R and RStudio installed:
 
 [Video Tutorial](https://www.youtube.com/watch?v=q0PjTAylwoU)
 
-### MacOS {#macos} 
+### MacOS {#macos}
 
 If you already have R and RStudio installed:
 
