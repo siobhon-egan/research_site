@@ -65,7 +65,48 @@ Copy changes from a remote repository to a local repository
 git pull origin master
 ```
 
-Cloning a repo
+Cloning a repo - make a local copy of a repository
 ```
 git clone https://github.com/repo/name.git ~/Path/here
+```
+
+### Workflow for pushing new repo to github
+
+Quick guide for making a new repository on local machine and pushing it to GitHub.
+
+On local machine
+```
+mkdir directory
+cd directory
+touch README.md
+git init
+```
+
+On GitHub make a new repo with the same filename -> make sure you create an empty repository.     
+Copy the https link to clip board and go back to terminal on local machine
+```
+git remote add origin https://github.com/siobhon-egan/repository.git
+git remote -v
+git add .
+git commit -m "first commit"
+git push origin master
+```
+
+### Workflow for pulling existing github repo
+
+Quick guide for pulling an existing repo from GitHub to local machine.
+
+On local machine
+```
+mkdir directory
+cd directory
+git init
+```
+
+On GitHub the existing repository in this case is called **directory**.      
+Copy the https link to clip board and go back to terminal on local machine
+```
+git remote add origin https://github.com/siobhon-egan/repository.git
+git remote -v
+git pull origin master
 ```
