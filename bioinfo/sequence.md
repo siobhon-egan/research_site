@@ -1,3 +1,7 @@
+---
+sort: 1
+---
+
 # Dealing with sequences
 
 source: `{{ page.path }}`
