@@ -93,7 +93,7 @@ You start entering your sample information on line 6, and some notes on headers 
 - `geographic location (latitude)` - DD format e.g. -33.69
 - `geographic location (longitude)` - DD format e.g. 151.25
 - `host-associated environmental package` - e.g. host-associated
-- `environment (biome)` - e.g. Temperate Broadleaf and Mixed Fores
+- `environment (biome)` - [Australian biomes](https://www.environment.gov.au/land/nrs/science/ibra/australias-ecoregions)
 - `environment (feature)` - e.g. animal-associated habitat
 - `environment (material)` - free text e.g. Blood
 
@@ -110,12 +110,10 @@ Details on [Uploading Files Using Command Line FTP Client
 
 But put simply:
 
-a) Open the terminal and navigate to the directory where the raw sequence files are.
-b) `lftp webin2.ebi.ac.uk -u Webin-xxxxx`, filling in your Webin username
-Enter your Webin password when prompted
-Type ls command to check the content of your directory (check your in the correct directory)
-c) Use `mput <filename>` command to upload files. For bulk upload of zipped fastq files (i.e. ending in `.fastq.gz`) simply type `mput *.fastq.gz`
-d) Once it has complete use `bye` command to exit the ftp client.
+1. Open the terminal and navigate to the directory where the raw sequence files are.
+2. Type `lftp webin2.ebi.ac.uk -u Webin-xxxxx`, filling in your Webin username and enter your Webin password when prompted. Type ls command to check the content of your directory (check your in the correct directory)
+3. Use `mput <filename>` command to upload files. For bulk upload of zipped fastq files (i.e. ending in `.fastq.gz`) simply type `mput *.fastq.gz`
+4. Once it has complete use `bye` command to exit the ftp client.
 
 ### 4. Run analysis
 
