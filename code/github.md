@@ -110,3 +110,18 @@ git remote add origin https://github.com/siobhon-egan/repository.git
 git remote -v
 git pull origin master
 ```
+
+
+## Git ignore
+
+Some handy git-related functions available in the [usethis](https://usethis.r-lib.org/reference/index.html#section-git-and-github) package.    
+In particular `git_vaccinate()` adds *'.Rproj.user', '.Rhistory', '.Rdata', '.httr-oauth', '.DS_Store'* to your `.gitignore` file.
+
+It might be handy to made a global `.gitignore` file to make sure you always ignore certain files (e.g. the `.DS_Store`)
+
+```bash
+# make a global .gitignore file
+echo .DS_Store >> ~/.gitignore_global
+# configure to use this file for all of your repositories
+git config --global core.excludesfile ~/.gitignore_global
+```

@@ -13,8 +13,11 @@ source: `{{ page.path }}`
 * [Australian BioComms](https://www.biocommons.org.au/) and [BioPlatforms](https://bioplatforms.com/biocommons/) - Australian centeric resources and community aimed at enhancing and training in all things big data.
 * [Pawsey Super Computing Centre](https://pawsey.org.au/) - A Tier-1, High Performance Computing facility in Australia, whose primary function is to accelerate scientific research for the benefit of the nation.
 * [EMBL Australia](https://www.emblaustralia.org/) - EMBL Australia is a life science network that supports ambitious research projects and provides access to infrastructure and training to early-career Australian scientists.
+* [Netflow](https://www.nextflow.io/) - Data-driven computational pipelines Nextflow enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages.
 
 # Databases
+
+:link: **Parasite and genomics related**
 
 * [TriTrypDB](https://tritrypdb.org/tritrypdb/) - kinetoplastid genomics resource
 * [VectorBase](https://www.vectorbase.org/downloads) - bioinformatics resource for invertebrate vectors of human pathogens
