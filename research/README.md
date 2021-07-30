@@ -10,17 +10,35 @@ source: `{{ page.path }}`
 
 **On this page**:
 
-1. [Project planning](#example)
+1. [General research resources](#general-research-resources)
 2. [Storage & back ups](#backup)
 3. [Research accounts](#accounts)
 4. [Laboratory record keeping](#records)
 5. [Data repositories](#repos)
-6. [Writing](#writing)
-7. [Presentations](#presentations)
+6. [Presentations](#presentations)
 
-## Project planning {#project}
+*For information on writing see the [writing page](writing)*
 
-Hugh Kearns [ThinkWell](https://www.ithinkwell.com.au/hugh-kearns) is an excellent source of information for researchers. He also runs workshops and regularly visits universities and insitutions around Australia so keep an eye on his calendar.
+## General research resources {#general-research-resources}
+
+Hugh Kearns [ThinkWell](https://www.ithinkwell.com.au/hugh-kearns) is an excellent source of information for researchers.
+He also runs workshops and regularly visits universities and institutions around Australia so keep an eye on his calendar.
+There is a wealth of resources and templates available for [PhD students](https://www.ithinkwell.com.au/for-phd-students), [supervisors](https://www.ithinkwell.com.au/for-research-supervisors) and [general research](https://www.ithinkwell.com.au/for-researchers).
+
+**Supervision**
+
+[*Some advice paraphrased from Monash University and thoughts of my own*]
+The relationship with your supervisor(s) is central to the evolution of your research project.
+But not only that, they will help shape the type of researcher you become, so it's important to choose carefully.
+Your supervisor’s role is to give you feedback on your work, provide support and guidance, and help you stay on track.
+
+The best advice I can give to PhD students is that you are the manager of your project. Your supervisors are like the big boss. They'll help you source the funds and find the tools to do the project, but you need to tell them what you need. It is a skill in itself and takes some time to learn (I am still learning), but it's important to treat it as such as work on your supervisor-relationship.
+
+Some helpful resources on supervisor relationship at [Monash University site](https://www.monash.edu/rlo/graduate-research-writing/get-started/supervisor-relationship)
+
+**Supervisors**
+
+Some useful resources and forms are available at iThinkwell. See [tools for your supervisor](https://www.ithinkwell.com.au/resources/tools-for-the-supervisor) and [tools to give to your student](https://www.ithinkwell.com.au/resources/tools-to-give-your-student). A nice blog also available that covers some relavent topics [here](https://supervisingphds.wordpress.com/).
 
 
 ## Storage & back ups {#backup}
@@ -44,7 +62,7 @@ Here is a list of accounts that will be useful to create when starting out in re
 * [ORCID](https://orcid.org/) - ORCID provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. You can connect your iD with your professional information — affiliations, grants, publications, peer review, and more. You can use your iD to share your information with other systems, ensuring you get recognition for all your contributions, saving you time and hassle, and reducing the risk of errors.
 * [Google Scholar](http://scholar.google.com/) - no explanation necessary right?
 * [Scopus](https://www.scopus.com/home.uri) - Scopus is the largest abstract and citation database of peer-reviewed literature: scientific journals, books and conference proceedings. Delivering a comprehensive overview of the world's research output in the fields of science, technology, medicine, social sciences, and arts and humanities, Scopus features smart tools to track, analyse and visualise research.
-* [GitHub](https://github.com/) - for the coders...see my GitHub page for more info
+* [GitHub](https://github.com/) - for the coders...see info on GitHub [here](http://siobhonlegan.com/research_site/code/github.html) and link to my GitHub page [here](http://github.com/siobhon-egan).
 
 ## Laboratory record keeping {#records}
 
@@ -98,23 +116,12 @@ Free accounts include
 
 **[Open Science Framework](http://osf.io/)**
 
-## Writing {#writing}
-
-
-[Phrasebank](http://www.phrasebank.manchester.ac.uk/)
-
-[The thesis whisperer](https://thesiswhisperer.com/)
-
-[Doctoral writing](https://doctoralwriting.wordpress.com/)
-
-[iThinkwell](https://www.ithinkwell.com.au/)
 
 ## Presentions/figures {#presentations}
 
 A good reference here by [Rougier et al. 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 
 A helpful blog by [Entomology today](https://entomologytoday.org/2020/04/29/making-great-scientific-figures-tips-for-entomology-students/)
-
 
 [Leek lab group webpage](http://jtleek.com/) - some helpful bits of info and links here. A guide for [talks here](https://github.com/jtleek/talkguide).
 
