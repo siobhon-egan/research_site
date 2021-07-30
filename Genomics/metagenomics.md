@@ -1,16 +1,14 @@
 ---
-sort: 
+sort: 4
 ---
 
-# -Omics
+# Metagenomics
 
 source: `{{ page.path }}`
 
 {% include list.liquid all=true %}
 
 <span class="badge badge-info">Metagenomic tools</span>
-
-## Metagenomics
 
 :link: **Useful resources**
 
@@ -33,7 +31,7 @@ applications.php)
 
 Detailed tutorials
 
-- [Computational Genomics Tutorial](https://genomics.sschmeier.com/index.html) - This is an introductory tutorial for learning computational genomics mostly on the Linux command-line. You will learn how to analyse next-generation sequencing (NGS) data. The data you will be using is real research data. The final aim is to identify genome variations in evolved lines of bacteria that can explain the observed biological phenotypes. 
+- [Computational Genomics Tutorial](https://genomics.sschmeier.com/index.html) - This is an introductory tutorial for learning computational genomics mostly on the Linux command-line. You will learn how to analyse next-generation sequencing (NGS) data. The data you will be using is real research data. The final aim is to identify genome variations in evolved lines of bacteria that can explain the observed biological phenotypes.
 
 Inspiration for some RShiny apps by [imetalab](https://shiny.imetalab.ca/)
 

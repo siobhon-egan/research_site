@@ -11,7 +11,15 @@ source: `{{ page.path }}`
 
 <span class="badge badge-info">A quick overview on metabolomic resources</span>
 
+
+<style>
+div.blue { background-color:#FFA500; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
 Until I expand on this section I will keep list of links and resources relating to NMR and MS on the one page.
+</div>
+
 
 :link: **General resources**
 
