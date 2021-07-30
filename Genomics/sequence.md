@@ -6,6 +6,10 @@ sort: 1
 
 source: `{{ page.path }}`
 
+{% include list.liquid all=true %}
+
+<span class="badge badge-info">Quick tips in working with sequence files</span>
+
 
 ## Viewing
 
